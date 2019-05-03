@@ -5,6 +5,7 @@ body {
 .wrapper {
   max-width: 640px;
   margin: 0 auto;
+  border: 1px solid red;
 }
 
 @media screen and (min-width: 640px) {
@@ -37,7 +38,6 @@ body {
 
 @media screen and (min-width: 960px) {
   .imageContainer {
-    width: 150px;
   }
 }
 
