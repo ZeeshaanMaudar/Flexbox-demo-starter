@@ -28,7 +28,6 @@ body {
 
 @media screen and (min-width: 960px) {
   .cardContainer {
-    width: 300px;
   }
 }
 
